@@ -1,0 +1,4 @@
+count = 10
+for i in range(0, count):
+  print("hello world")
+print("hello world printed 10 times for testing the for loop and testing is success")
