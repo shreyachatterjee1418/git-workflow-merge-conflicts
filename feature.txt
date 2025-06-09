@@ -1,1 +1,1 @@
-feature.txt for testing.
+feature.txt for testing. feature is fixed and changed
